@@ -1,6 +1,6 @@
 Quiz Game
 
-An interactive Quiz Game built using HTML, CSS , Javascript/n
+An interactive Quiz Game built using HTML, CSS , Javascript\n
 Features :
   * Dynamic question rendering
   * Score tracking system
